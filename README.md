@@ -13,11 +13,4 @@
  
  <br>
 
- 
-<div> 
- 
- 
- 
-  ![Snake animation](https://github.com/Alineopsoliveira/Alineopsoliveira/blob/output/github-contribution-grid-snake.svg)
 
-</div>

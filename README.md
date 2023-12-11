@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil de Aline Oliveira 👩🏻‍💻
 
- Sou Designer Gráficp e atualmente estou empenhenhando em aprimorar minhas habilidades como desenvolvedora e Ui\Ux design. Estou cursando um curso de programação pela Devaria e o curso de Ui\Ux Design pela Udemy.
+ Sou Designer Gráfico e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedora e Ui\Ux design. 
+ Estou cursando um curso de programação pela Devaria e o curso de Ui\Ux Design com o Professor Lucas Marte.
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
@@ -38,7 +39,8 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 <p align="left">
   Sinta-se a vontade para entrar em contato: ⤵️
 </p>
-
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/alineps-oliveira/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 

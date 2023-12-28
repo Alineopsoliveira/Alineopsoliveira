@@ -34,6 +34,9 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 ![React.js](https://img.shields.io/badge/-React.js-B0C4DE?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-B0C4DE?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![MONGODB](https://img.shields.io/badge/-mongodb-B0C4DE?style=for-the-badge&logo=mongo&labelColor=0D1117)&nbsp;
+![MONGODB](https://img.shields.io/badge/-python-B0C4DE?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![MONGODB](https://img.shields.io/badge/-django-B0C4DE?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+
 
 
 <p align="left">

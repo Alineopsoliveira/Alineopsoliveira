@@ -1,9 +1,11 @@
 ## Bem-vindo(a) ao perfil de Aline Oliveira 👩🏻‍💻
 
- Sou Designer Gráfico e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedora e Ui\Ux design. 
+<img src="https://drive.google.com/file/d/19iBcmbIYtExcPw-SKZ1C2yedXH5-O30B/view" alt="ilustração de um computador" min-width="400px" width="400px" align="right">
+
+<p align="left"> Sou Designer Gráfico e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedora e Ui\Ux design. 
  Estou cursando um curso de programação pela Devaria e o curso de Ui\Ux Design com o Professor Lucas Marte.
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor. </p>
 
 <br/>
 <br/>

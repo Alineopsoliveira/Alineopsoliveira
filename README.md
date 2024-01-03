@@ -1,18 +1,21 @@
-<h1 color=blue> Bem vindo(a) ao meu perfil </h1>
+<h1 color=blue> Olá mundo! Sou Aline. </h1>
 
 <img src="./images/COMPUTADOR.png" alt="ilustração de um computador" min-width="400px" width="400px" align="right">
 
-<p align="left"> Sou Designer Gráfico e atualmente estou empenhada em aprimorar minhas habilidades como desenvolvedora e Ui\Ux design. 
- Estou cursando um curso de programação pela Devaria e o curso de Ui\Ux Design com o Professor Lucas Marte.
+<p align="left">E aí, explorador digital! Sou uma Designer Gráfico que está desenhando mais do que apenas pixels, estou construindo meu caminho para me tornar uma desenvolvedora Fullstack. Atualmente, estou imersa nos estudos, aprendendo a linguagem das máquinas enquanto continuo a moldar experiências visuais.
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor. </p>
+ Assim como na arte, na programação eu construo lógica e estilo. Ambas as disciplinas demandam criatividade, precisão e uma paleta de habilidades para criar algo incrível. Design e Desenvolvimento, dois mundos aparentemente distintos, mas unidos pela busca incessante pela estética e funcionalidade.
+
+Estou aberta a colaborações e ansiosa para compartilhar ideias! Se você também está nessa jornada de contribuir com a tecnologia, ou simplesmente quer trocar pensamentos criativos, sinta-se a vontade para entrar em contato.</p>
+
 
 <br/>
 <br/>
+<br/>
 
+ 
 
-
-### Tecnologias que possuo conhecimento:
+### Tecnologias que possuo conhecimento:  
 ![HTML](https://img.shields.io/badge/-HTML-B0C4DE?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-B0C4DE?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-B0C4DE?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -57,11 +60,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
 
 
 
- <div>
-  <a href="https://github.com/Alineopsoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alineopsoliveira&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alineopsoliveira&layout=compact&langs_count=6&theme=neon"/>
-</div>
+
 
 
 

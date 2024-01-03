@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Aline Oliveira 👩🏻‍💻
+<h1 color=blue> Bem vindo(a) ao meu perfil </h1>
 
 <img src="./images/COMPUTADOR.png" alt="ilustração de um computador" min-width="400px" width="400px" align="right">
 

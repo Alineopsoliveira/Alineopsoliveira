@@ -20,6 +20,7 @@ Estou aberta a colaborações e ansiosa para compartilhar ideias! Se você tamb�
 ![CSS](https://img.shields.io/badge/-CSS-B0C4DE?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-B0C4DE?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-B0C4DE?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-aws-B0C4DE?style=for-the-badge&logo=aws&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-B0C4DE?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
  
 ### Ferramentas:
@@ -29,6 +30,8 @@ Estou aberta a colaborações e ansiosa para compartilhar ideias! Se você tamb�
 ![Windows](https://img.shields.io/badge/-Windows-B0C4DE?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-B0C4DE?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-B0C4DE?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+![CorelDraw](https://img.shields.io/badge/-coreldraw-B0C4DE?style=for-the-badge&logo=CorelDRAWGraphicsSuite&labelColor=0D1117)&nbsp;
+![Photoshop](https://img.shields.io/badge/-photoshop-B0C4DE?style=for-the-badge&logo=adobephotoshop&labelColor=0D1117)&nbsp;
 
 
 ### Estudando no momento:
@@ -39,8 +42,9 @@ Estou aberta a colaborações e ansiosa para compartilhar ideias! Se você tamb�
 ![React.js](https://img.shields.io/badge/-React.js-B0C4DE?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-B0C4DE?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![MONGODB](https://img.shields.io/badge/-mongodb-B0C4DE?style=for-the-badge&logo=mongo&labelColor=0D1117)&nbsp;
-![MONGODB](https://img.shields.io/badge/-python-B0C4DE?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![MONGODB](https://img.shields.io/badge/-django-B0C4DE?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-B0C4DE?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![django](https://img.shields.io/badge/-django-B0C4DE?style=for-the-badge&logo=django&labelColor=0D1117)&nbsp;
+![ux/uxdesigner](https://img.shields.io/badge/-UX/UI_Designer-B0C4DE?style=for-the-badge&logo=uxdesigner&labelColor=0D1117)&nbsp;
 
 
 

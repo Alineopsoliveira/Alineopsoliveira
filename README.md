@@ -62,10 +62,11 @@ Estou aberta a colaborações e ansiosa para compartilhar ideias! Se você tamb�
 <br/>
 <br/>
 
-
-
-
-
+<div>
+  <a href="https://github.com/Alineopsoliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alineopsoliveira&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alineopsoliveira&layout=compact&langs_count=6&theme=neon"/>
+</div>
 
 
 <br/>
